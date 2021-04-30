@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dannygits
 - 👀 I’m interested in browse the following links to look at my work
-- https://moviedemo-2tqqd.ondigitalocean.app/ movie-demo-application
-- https://dorwan-consultants-np7ra.ondigitalocean.app/ hr website
 
 
 <!---
